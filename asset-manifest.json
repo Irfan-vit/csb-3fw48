@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://irfan-vit.github.io/csb-3fw48/static/css/main.0e72f5f7.chunk.css",
+    "main.js": "https://irfan-vit.github.io/csb-3fw48/static/js/main.ece1316f.chunk.js",
+    "main.js.map": "https://irfan-vit.github.io/csb-3fw48/static/js/main.ece1316f.chunk.js.map",
+    "runtime-main.js": "https://irfan-vit.github.io/csb-3fw48/static/js/runtime-main.901f0fea.js",
+    "runtime-main.js.map": "https://irfan-vit.github.io/csb-3fw48/static/js/runtime-main.901f0fea.js.map",
+    "static/js/2.32d57460.chunk.js": "https://irfan-vit.github.io/csb-3fw48/static/js/2.32d57460.chunk.js",
+    "static/js/2.32d57460.chunk.js.map": "https://irfan-vit.github.io/csb-3fw48/static/js/2.32d57460.chunk.js.map",
+    "index.html": "https://irfan-vit.github.io/csb-3fw48/index.html",
+    "static/css/main.0e72f5f7.chunk.css.map": "https://irfan-vit.github.io/csb-3fw48/static/css/main.0e72f5f7.chunk.css.map",
+    "static/js/2.32d57460.chunk.js.LICENSE.txt": "https://irfan-vit.github.io/csb-3fw48/static/js/2.32d57460.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.901f0fea.js",
+    "static/js/2.32d57460.chunk.js",
+    "static/css/main.0e72f5f7.chunk.css",
+    "static/js/main.ece1316f.chunk.js"
+  ]
+}
